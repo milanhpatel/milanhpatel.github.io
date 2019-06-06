@@ -1,7 +1,3 @@
----
-permalink: /public/index.html
----
-
 # Dev Landing Page
 
 Minimal landing page for developers.
